@@ -1,0 +1,12 @@
+.completed{
+    background-color: green;
+    color: white;
+}
+
+.incomplete{
+    background-color: red;
+    color: white;
+}
+.list-item{
+    cursor: pointer;
+}
